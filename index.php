@@ -47,8 +47,20 @@
     </nav>
 
     <section class="container ma-section">
-    <h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique !!!</h1>
+      <h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique !!!</h1>
     </section>
+
+    <form method="post" action="traitement.php">
+          <p>
+              <label for="pseudo">Votre pseudo :</label>
+              <input type="text" name="pseudo" id="pseudo" />
+
+              <br />
+              <label for="pass">Votre mot de passe :</label>
+              <input type="password" name="pass" id="pass" />
+     
+          </p>
+    </form>
 
     <footer>
       &copy; 2018 Hamady DEMBELE - Ma boutique
