@@ -8,7 +8,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Ma boutique</title>
   </head>
   <body>
 
@@ -44,7 +46,13 @@
       </div>
     </nav>
 
-    <h1>Hello, world!</h1>
+    <section class="container ma-section">
+    <h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique !!!</h1>
+    </section>
+
+    <footer>
+      &copy; 2018 Hamady DEMBELE - Ma boutique
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
