@@ -50,6 +50,8 @@
       <h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique !!!</h1>
     </section>
 
+    <p>Faire une troisième branche</p>
+
     <form method="post" action="traitement.php">
           <p>
               <label for="pseudo">Votre pseudo :</label>
