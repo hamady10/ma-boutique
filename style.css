@@ -1,0 +1,11 @@
+footer{
+  background: #343a40;
+  text-align: center;
+  height: 80px;
+  color: #fff;
+  padding: 20%;
+}
+
+.ma-section{
+  min-height: 480px;
+}
