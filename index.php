@@ -58,8 +58,21 @@
               <br />
               <label for="pass">Votre mot de passe :</label>
               <input type="password" name="pass" id="pass" />
-     
+
           </p>
+    </form>
+
+    <form method="post" action="traitement.php">
+        <p>
+            <label for="ameliorer">
+              Comment pensez-vous que je puisse améliorer mon site ?
+            </label>
+       <br />
+            <textarea name="ameliorer" id="ameliorer" rows="10" cols="50">
+              Améliorer ton site ?!
+              Mais enfin ! Il est tellement génialissime qu'il n'est pas nécessaire de l'améliorer !
+            </textarea>
+        </p>
     </form>
 
     <footer>
